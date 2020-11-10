@@ -13,7 +13,7 @@
 const dimas = {
   pronouns: "he",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Gatsby, Redux, Node, Vue, SCSS, Bootstrap, Laravel, Styled-Components]
+  tools: [React, Gatsby, Redux, MySql, Vue, SCSS, Bootstrap, Laravel, Styled-Components]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
