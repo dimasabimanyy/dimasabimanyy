@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dimas abimanyu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
-<p><em>Software Enginner <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+<p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: dimasabimanyy](https://img.shields.io/twitter/follow/dimasabimanyy?style=social)](https://twitter.com/dimasabimanyy)
