@@ -13,7 +13,7 @@
 const dimas = {
   pronouns: "he",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Gatsby, Redux, MySql, Vue, SCSS, Bootstrap, Laravel, Styled-Components]
+  tools: [React, Redux, MySql, SCSS, Bootstrap, Laravel, Styled-Components]
 }
 ```
 
