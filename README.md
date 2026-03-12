@@ -10,3 +10,4 @@ Interested in product engineering, developer experience, and building tools peop
 
 ## Around the Internet
 - [Instagram: @dimasabimanyy_](https://www.instagram.com/dimasabimanyy_/)
+- [LinkedIn: dimasabimanyu](https://www.linkedin.com/in/dimasabimanyu/)
