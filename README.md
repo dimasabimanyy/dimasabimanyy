@@ -1,22 +1,12 @@
-<h2> Hi, I'm Dimas abimanyu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
-<p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
-</em></p>
+## Dimas Abimanyu
+Software Engineer building web products and backend systems for 5+ years.
 
-[![Twitter: dimasabimanyy](https://img.shields.io/twitter/follow/dimasabimanyy?style=social)](https://twitter.com/dimasabimanyy)
-[![GitHub dimasabimanyy](https://img.shields.io/github/followers/dimasabimanyy?label=follow&style=social)](https://github.com/dimasabimanyy)
+I enjoy turning ideas into working products — from backend architecture to clean, intuitive interfaces.
 
+## Current Focus
+Working on personal product experiments and web applications.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+Interested in product engineering, developer experience, and building tools people actually use.
 
-```javascript
-const dimas = {
-  pronouns: "he",
-  code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Redux, MySql, SCSS, Bootstrap, Laravel, Styled-Components]
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+## Around the Internet
+- [Instagram: @dimasabimanyy_](https://www.instagram.com/dimasabimanyy_/)
