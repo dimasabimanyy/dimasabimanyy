@@ -1,5 +1,5 @@
 ## Dimas Abimanyu
-Software Engineer building web products and backend systems for 5+ years.
+Software Engineer building web products and backend systems.
 
 I enjoy turning ideas into working products — from backend architecture to clean, intuitive interfaces.
 
