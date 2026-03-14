@@ -4,7 +4,7 @@ Software Engineer building web products and backend systems.
 I enjoy turning ideas into working products — from backend architecture to clean, intuitive interfaces.
 
 ## Current Focus
-Working on personal product experiments and web applications.
+Working on personal product and web applications.
 
 Interested in product engineering, developer experience, and building tools people actually use.
 
